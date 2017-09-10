@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkFileSystem\Task2\bin\Debug\Task2.exe.config
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkFileSystem\Task2\bin\Debug\Task2.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkFileSystem\Task2\bin\Debug\Task2.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkFileSystem\Task2\obj\Debug\Task2.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkFileSystem\Task2\obj\Debug\Task2.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkFileSystem\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
